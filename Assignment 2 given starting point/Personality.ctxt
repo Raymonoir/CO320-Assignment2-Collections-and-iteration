@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Personality
+comment0.text=\n\ Details\ of\ a\ sports\ personality\ in\ a\ competition.\n\ \n\ @author\ David\ J.\ Barnes\ \n\ @version\ 2018.11.07\n
+comment1.params=name\ sport
+comment1.target=Personality(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Personality.\n\ @param\ name\ The\ personality's\ name.\n\ @param\ sport\ The\ personality's\ sport.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Return\ the\ personality's\ name.\n\ @return\ the\ name.\n
+comment3.params=
+comment3.target=java.lang.String\ getSport()
+comment3.text=\n\ Return\ the\ sport.\n\ @return\ the\ sport.\n
+comment4.params=
+comment4.target=int\ getVotes()
+comment4.text=\n\ Return\ the\ number\ of\ votes.\n\ @return\ the\ number\ of\ votes.\n
+comment5.params=amount
+comment5.target=void\ increaseVotes(int)
+comment5.text=\n\ Increase\ the\ votes\ by\ the\ given\ amount.\n\ @amount\ Number\ of\ votes.\ Must\ be\ greater\ than\ zero.\n
+comment6.params=
+comment6.target=java.lang.String\ getDetails()
+comment6.text=\n\ Return\ details\ of\ the\ person,\ their\ sport\ and\n\ the\ number\ of\ votes.\n\ @return\ details\ of\ the\ person.\n
+numComments=7
